@@ -18,3 +18,6 @@ Database: MongoDB
 ✅ Responsive UI with modern design
 ✅ Secure password hashing
 ✅ REST API with protected routes
+
+
+DEPLOY_URL = https://gym-full-stack-site-p4qh.vercel.app/
