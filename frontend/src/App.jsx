@@ -7,9 +7,8 @@ import WorkoutSessions from "./components/WorkoutSessions";
 import Gallery from "./components/Gallery";
 import Pricing from "./components/Pricing";
 import Contact from "./components/Contact";
-import BMICalculator from "./components/BMIcalculator";
+import BMICalculator from "./components/BMICalculator";
 import Footer from "./components/Footer";
-
 
 import "./App.css";
 const App = () => {
